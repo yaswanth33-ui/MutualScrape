@@ -1,0 +1,31 @@
+# Ignore Jupyter Notebook files
+*.ipynb
+
+# Ignore image files
+*.png
+
+# Ignore log files
+*.log
+
+# Ignore backup files
+*.bak
+
+# Ignore virtual environment
+env/
+
+# Ignore test data
+/test/*.csv
+
+# Ignore compiled Python files
+__pycache__/
+*.py[cod]
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore temporary files
+*.tmp
+
+# Ignore README backups
+README.md.bak
