@@ -24,7 +24,7 @@ This project is designed to scrape mutual fund data from the [MFAPI](https://www
    ```
 2. Navigate to the project directory:
    ```bash
-   cd MFscraping
+   cd MutualScrape
    ```
 3. Create a virtual environment:
    ```bash
@@ -51,6 +51,9 @@ This project is designed to scrape mutual fund data from the [MFAPI](https://www
    ```bash
    streamlit run app.py
    ```
+   
+Open your web browser and go to http://localhost:8501 (or http://0.0.0.0:8501 if needed for accessibility) to interact with the application.
+
 
 ## Contribution Guidelines
 
@@ -74,3 +77,5 @@ We welcome contributions to improve this project. Please follow these steps:
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+Contact For any inquiries or support, please reach out at yaswanthreddypanem@gmail.com .
